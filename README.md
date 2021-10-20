@@ -1,1 +1,33 @@
 # ClientsList
+
+# ClientsFront (Angular CLI v 12.2.0)
+
+Open folder with project
+
+Development server
+Run 
+ "ng serve"
+for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+
+Build
+Run
+ "ng build"
+to build the project. The build artifacts will be stored in the dist/ directory.
+
+# ClientsBack
+In MySQL create DB "clients"
+
+Open project in IDE
+
+In application.properties set:
+
+username = ""
+password = ""
+
+Open console:
+
+mvn compile
+
+mvn package
+
+mvn install
