@@ -14,6 +14,13 @@ Run
  "ng build"
 to build the project. The build artifacts will be stored in the dist/ directory.
 
+(ФИО размер 2-20 символов кириллицей,
+Год - 4 цифры,
+Пол "м" или "ж"
+Тел. в виде  +123 456789)
+
+
+
 ## ClientsBack (spring-boot 2.5.5, maven, mysql)
 In MySQL create DB "clients"
 
