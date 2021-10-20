@@ -1,6 +1,6 @@
 # ClientsList
 
-# ClientsFront (Angular CLI v 12.2.0)
+# ClientsFront (Angular v 12.2.0)
 
 Open folder with project
 
@@ -14,7 +14,7 @@ Run
  "ng build"
 to build the project. The build artifacts will be stored in the dist/ directory.
 
-# ClientsBack
+# ClientsBack (spring-boot 2.5.5, maven, mysql)
 In MySQL create DB "clients"
 
 Open project in IDE
